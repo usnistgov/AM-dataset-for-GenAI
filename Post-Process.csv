@@ -11,16 +11,16 @@ The Oil Tank is used to perform the hardening and quenching treatment on the AM 
 Sand blasting and polishing procedure are done to finish the AM parts.,TRUE
 CNC Milling Machine is used for machining operation of the AM process.,TRUE
 Cool down part is done during the qualification phase of the AM process.,FALSE
-"AMF (Additive manufacturing file) format extends the STL format to include dimensions, color, material, and many other useful features.",TRUE
-"An STL file has specific unit, color, material, or other feature information.",FALSE
-"Identifying methods, plan a sequence of operations are discussed in process planning section in additive manufacturing.",TRUE
+Additive manufacturing (AM) processes produce parts with excellent surface quality.,FALSE
+Post-processing techniques are not necessary for AM parts.,FALSE
+Post-processing techniques can enhance the surface characteristics and physical and mechanical properties of AM parts.,TRUE
 Orientation selection for AM process depends on the AM machine capability.,FALSE
-STL format is an advanced version of AMF format.,FALSE
 "Machine independent process planning activities include Choose Orientation, and Generate Supports.",TRUE
 Tessellated Model (MI) is supported to a build plate based on the support structure.,FALSE
 "Build Orientation and supports can affect build time, cost, dimensional accuracy, and surface quality of the final part.",TRUE
 Build orientation does not depend on support of AM process.,FALSE
 Generate support is a machine dependent phase for AM process.,FALSE
+Laser shock peening is not a post-processing technique used for AM parts.,FALSE
 Which operation is done first during AM post-processing phase? 1) machining and grinding 2) hardening and quenching treatment.,hardening and quenching treatment
 Which operation is done first during AM post-processing phase? 1)machining 2) polishing,machining 
 Which action is done first during AM post-processing phase? 1)Remove AM part from the chamber 2) remove support,Remove part from the chamber
@@ -29,11 +29,14 @@ Which operation is used to enhance the part properties? 1) heat treating and sin
 Why is Support used for AM printing 1) to printing overhung 2) improve quality,to printing overhung
 Correct orientation of AM design may depend on which factor?   1) less support 2) time to build a part.,time to build a part
 "Correct orientation of AM design may depend on which factor?  2) whether certain surfaces should be built face-up to ensure good surface finish in areas that are not in contact with support structures, 2) whether certain surfaces should be built face-down to ensure good surface finish in areas that are not in contact with support structures",whether certain surfaces should be built face-up to ensure good surface finish in areas that are not in contact with support structures
-Which activity is done in machine independent process planning phase? 1) Generate Supports 2) set control parameters,Generate Supports
+"Which of the following is a post-processing technique used for AM parts?
+A) Laser polishing
+B) Casting", Laser polishing
 Tessellated Model (MI) is supported to a build plate based on  which factor? 1)support structure 2) model orientation,model orientation
 Provide some part properties enhancement methods used in AM? ,"heat treating, machining, polishing, shot peening, homogenization, hardening, and quenching."
 Write some post-processing equipment's used in AM process? ,"CNC Milling Machine, Polishing Equipment, Heat Treating Machine, and Chipping Tools."
 What is HIP? ,HIP is a manufacturing process used to reduce the porosity of metals and increase the density of many ceramic materials. Heat treatment will enhance the part to reach the required microstructure and mechanical properties.
 Why machining Operation is done during the AM process? ,"dimensional accuracy, metallurgical qualities-part properties, and surface quality"
-Write the difference of CAD model and STL model? ,Tessellated Model is a file in STL file format which describes the external closed surfaces of the original CAD Model.
-Provide some name of CAD software? ,"Solidworks, AUtoCAd, ProE"
+What are the primary issues with AM parts that necessitate post-processing techniques?,"The primary issues include poor surface finish, unwanted microstructure phases, defects, wear tracks, reduced corrosion resistance, and reduced fatigue life."
+Describe the significance of the non-equilibrium solidification process in AM.,The non-equilibrium solidification process in AM can be tweaked to produce desired microstructures.
+What is the basis for choosing a particular post-processing technique for AM parts?,"The choice of post-processing technique depends on the specific requirements of the part, such as the need to improve surface quality or mechanical properties."
