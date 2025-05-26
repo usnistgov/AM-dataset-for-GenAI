@@ -1,0 +1,14 @@
+Question,Gold Label,Generated Response
+Ozawa Method is used to measure the electrical properties of the AM part.,FALSE,False
+Tolerance measurement is done before surface roughness measurement during AM part qualification.,TRUE,False
+CT-Scan and Neutron Imaging techniques are used to measure porosity and cracks.,TRUE,True
+"Method E1876 is a standard test for Dynamic Young's Modulus, Shear Modulus, and Poisson's Ratio by Impulse Excitation of Vibration.",TRUE,True
+Method E1382 is used for Determining Average Grain Size.,FALSE,True
+Electron Backscatter Diffraction is used to measure microstructural properties of metal AM part.,TRUE,True
+Method E466 is used for Creep-Fatigue Testing.,FALSE,False
+ASTM E399 is a quality test method for linear-elastic plane-strain fracture toughness.,TRUE,True
+Method E1457 is used for creep-fatigue crack growth.,FALSE,False
+Hardness is considered as electrical properties of metal AM process.,FALSE,False
+Hardness measure is done before measuring fatigue strength and life.,TRUE,False
+Conventional hand-crafted features for quality identification in AM are not costly,FALSE,False
+Layer misalignment is a quality issue in metal AM.,TRUE,True

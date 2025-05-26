@@ -1,0 +1,9 @@
+Prompt,gold_label
+How is monitoring done during Laser Directed Energy Deposition?,Monitoring is done using Acoustic Emission and Optical Emission Spectroscopy with Artificial Intelligence and others techniques also.
+What are some common defects that occur in WAAM?,"Common defects include lack of fusion,porosity.distortion etc."
+What is the benefit of using Artificial Intelligence in monitoring and controlling additive manufacturing?,Artificial Intelligence enables intelligent sensing and automated control for improved quality and defect detection
+What types of defects can occur during the metal printing process? ,"Porosity, cracks, residual stress, geometric inaccuracy etc"
+Give different sensors example that are used to monitor the printing process? ,"sensors example that are used to monitor the printing process are Vision , thermal, acoustic ,NDE Scanning Electron Microscope (SEM) etc."
+What is partial and full melting for PBF? ,"Partial melting is a liquid matrix is established to selectively bind solid particles; while in full melting, powder is heated up above its melting point to result in a fully-dense material."
+"For PBF, provide some examples of  factors that influence the metallurgical quality of the Workpiece? ","actors that influence the metallurgical quality of the Workpiece are Laser Power, Scan Speed, Scan Overlap, Material Type, Chemical Composition, Geometry, Layer Thickness, Build Chamber Environment, Melt Pool Size, Melt Pool Temperature."
+What is the meaning of microstructure? ,phases and grain morphology

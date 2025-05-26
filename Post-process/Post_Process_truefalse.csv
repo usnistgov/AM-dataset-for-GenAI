@@ -1,0 +1,23 @@
+﻿Prompt,gold_label
+"Post processing of AM includes remove Supports, Improve Properties, and Finish Part.",TRUE
+"Heat treatment, homogenization treatment, and quenching is used to improve properties of AM part.",TRUE
+Heat Treating Machine is used in the qualification phase of the AM process.,FALSE
+Chipping tools are used to remove the Cooled built Part from the build platform during AM process.,TRUE
+Cutting tools are used to remove support.,TRUE
+Heat Treatment is a part of the Pre-process Operations of AM process.,FALSE
+Heat treatment process is done before remove the supports  during AM process,FALSE
+Homogenization is done after hardening and quenching treatment during AM process.,FALSE
+The Oil Tank is used to perform the hardening and quenching treatment on the AM part.,TRUE
+Sand blasting and polishing procedure are done to finish the AM parts.,TRUE
+CNC Milling Machine is used for machining operation of the AM process.,TRUE
+Cool down part is done during the qualification phase of the AM process.,FALSE
+Additive manufacturing (AM) processes produce parts with excellent surface quality.,FALSE
+Post-processing techniques are not necessary for AM parts.,FALSE
+Post-processing techniques can enhance the surface characteristics and physical and mechanical properties of AM parts.,TRUE
+Orientation selection for AM process depends on the AM machine capability.,FALSE
+"Machine independent process planning activities include Choose Orientation, and Generate Supports.",TRUE
+Tessellated Model (MI) is supported to a build plate based on the support structure.,FALSE
+"Build Orientation and supports can affect build time, cost, dimensional accuracy, and surface quality of the final part.",TRUE
+Build orientation does not depend on support of AM process.,FALSE
+Generate support is a machine dependent phase for AM process.,FALSE
+Laser shock peening is not a post-processing technique used for AM parts.,FALSE

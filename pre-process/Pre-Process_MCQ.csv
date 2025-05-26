@@ -1,0 +1,18 @@
+Prompt,gold_label
+"What is the effect of using constant process parameters in Direct Laser Deposition (DLD)?
+1) Parts with isotropic microstructure
+2) Parts with anisotropic microstructure",2) Parts with anisotropic microstructure
+"What are the process parameters for WAAM AM process? 1) torch speed and wire feed rate 2) Scan Speed, and Spot Size",torch speed and wire feed rate 
+"What are the process parameters for PBF AM process? 1) torch speed and wire feed rate 2) Scan Speed, and Spot Size","Scan Speed, and Spot Size"
+"What is used to control/predict melt pool size, stress, and material properties in Additive Manufacturing?
+A) Process maps
+B) Material databases",Process maps
+"For PBF, which action is done first? 1) create build model 2) plan powder fusion strategy ",Create build model 
+"How are process parameters typically determined in Additive Manufacturing?
+A) Using trial-and-error methods
+B) Using simulation software only
+ 
+
+",Using trial-and-error methods
+"What is a limitation of using process maps for large-scale processes? A) Inaccuracy due to model extrapolation errors
+B) Inability to predict part features",Inaccuracy due to model extrapolation errors

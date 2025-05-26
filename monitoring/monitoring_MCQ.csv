@@ -1,0 +1,16 @@
+Prompt,gold_label
+"What is the role of the AMMT in AM process monitoring?
+A) To develop new AM technologies
+B) To provide process monitoring datasets",To provide process monitoring datasets
+"What is the primary barrier for the wide application of L-PBF beyond rapid prototyping?
+A) Cost of equipment
+B) Lack of quality assurance", Lack of quality assurance
+Which defect can occur during the rapid solidification and cooling of the AM part building? 1) porosity 2) distortion,distortion
+Which activity is done first during the PFB process? 1) Fuse Powders 2) Create Powder Layer,Create Powder Layer
+Which activity is done first for PBF ? 1) Move Powder Container Up 2) Move Recoater Arm,Move Powder Container Up 
+" What is used for monitoring during Laser Directed Energy Deposition?
+A) Only Acoustic Emission
+B) Acoustic Emission and Optical Emission Spectroscopy",Acoustic Emission and Optical Emission Spectroscopy
+"What technique is used to improve the quality of WAAM builds?
+A) Single-sensor data fusion
+B) Multi-sensor data fusion",Multi-sensor data fusion

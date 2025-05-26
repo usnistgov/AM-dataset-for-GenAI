@@ -1,0 +1,5 @@
+Prompt,gold_label
+What is the purpose of supports in powder bed fusion additive manufacturing?,To prevent the collapse of molten metal inside the powder bed
+Describe the significance of the interactive approach in DfAM.,The interactive approach in DfAM improves the user experience and allows data and information to be easily implemented into the design platform.
+Write the difference of CAD model and STL model? , STL file format describes the external closed surfaces of the original CAD Model.
+Provide some name of CAD software? ,"Solidworks, AUTOCAD, ProE"

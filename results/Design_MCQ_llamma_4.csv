@@ -1,0 +1,13 @@
+Question,Gold Label,Generated Response
+What is generated after the project passes the final Check? 1)STL model 2) G-code file,G-code file,2) G-code file
+"What is the purpose of the design workflow's final Check? 1)To evaluate the part's geometry 2)  To analyze the manufacturing constraints, tolerances, and target cost","To analyze the manufacturing constraints, tolerances, and target cost","2) To analyze the manufacturing constraints, tolerances, and target cost"
+What is the purpose of the interactive approach in DfAM? 1)To reduce design time 2) To improve user experience and design phases,To improve user experience and design phases,2) To improve user experience and design phases
+"What affects the cost estimation process in 3D printing? 1) Only materials used for parts
+2) Multiple factors, including materials, printing time, and energy consumption","Multiple factors, including materials, printing time, and energy consumption","2) Multiple factors, including materials, printing time, and energy consumption"
+CAD model generation is discussed in which section? 1) generate AM design 2) Machine independent process planning,generate AM design,1) generate AM design
+Tessellated Model is stored in which format? 1) binary 2) AMF,AMF,"1) STL (not listed, but it is the correct answer) 
+Among the given options: 2) AMF"
+Which is most advanced data file format for AM? 1)AMF 2)STL,AMF,1) AMF
+What is the use of lattice structure for AM? 1) weight reduction of AM part 2) weight gain of AM part,weight reduction of AM part,1) weight reduction of AM part
+Which model is consist of unordered collection of triangle vertices and surface normal vectors? 1) AMF 2) STL,STL,2) STL
+Which is used as a CAD software? 1) ProE 2) Inkspace,ProE,1) ProE
