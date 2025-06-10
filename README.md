@@ -1,14 +1,14 @@
 # GenAI-AM-Bench
-AM dataset for evaluating GenAI models
-GenAI-AM-Bench is a dataset created to evaluate Generative Artificial Intelligence (GenAI) on Additive Mnaufacturing (AM) tasks, including  melt pool image defect detection, porosity label identification, true/false queries, multiple-choice questions and free form questions.
+
+GenAI-AM-Bench is a dataset developed to evaluate Generative Artificial Intelligence (GenAI) models on various tasks related to Metal Additive Manufacturing (MAM). It includes detecting defects in melt pool images, identifying porosity labels, answering true/false queries, solving multiple-choice questions, and responding to free-form questions. 
 
 # Dataset Overview
-### 1. Melt pool imgae with Labels
-- **Anomaly Detection**: Includes melt pool labeled image for identification defective and non-defective image based on features inlcuding mlt pool area and therehold....
+### 1. Melt pool image with labels
+- **Anomaly Detection**: Includes melt pool labeled images for identification defective and non-defective image based on features inlcuding melt pool area and intensity of the image.
 ![Printed Parts](Picture1.png)
-Figure: Melt pool image with label (a) and (b) non-defective and (c) and (d) defective 
+Figure: Melt pool image (a) and (b) non-defective and (c) and (d) defective 
 
-### 2. X-CT imgae with Labels
+### 2. X-CT image with labels
 - **Porosity Label**: Includes X-CT labeled image for identification large porosity data and small porosity data.
 ![Printed Parts](Picture2.png)
 Figure: Melt pool image with label (a) and (b) small porosity and (c) and (d) large porsity
