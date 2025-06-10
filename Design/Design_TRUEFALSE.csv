@@ -1,15 +1,15 @@
 Prompt,gold_label
-Optimize Shape is the first step for generating AM design.,FALSE
-The cost estimation process in 3D printing is a simple and straightforward process.,FALSE
-Tessellated Model can be stored ASCII format.,FALSE
+Optimizing the shape is the first step in generating an AM design,FALSE
+The cost estimation process is simple and straightforward.,FALSE
+A tessellated model is typically stored in ASCII format.,FALSE
 "The surfaces of a water-tight manifold model are fully closed and free of voids, cracks, and defects for AM design.",TRUE
 The G-code file is generated before the STL model.,FALSE
-CAD model and STL model are same,FALSE
-"Design Specification defines geometry, dimensions, and tolerances.",TRUE
-The design workflow should include a final Check to evaluate the overall 3D printing project.,TRUE
-STL file consist of unordered collection of triangle vertices and surface normal vectors.,TRUE
+CAD models and STL models are the same.,FALSE
+"Geometry, dimensions, and tolerances are defined in design specifications.",TRUE
+The design workflow should include a final check to evaluate the overall 3D printing project.,TRUE
+The unordered collection of triangle vertices and surface normal vectors of STL models may cause voids and cracks.,TRUE
 The unordered collection of triangle vertices and surface normal vectors of STL file may cause voids and cracks.,TRUE
-"A lattice structure can be used for noise cancellation, weight reduction, etc.",TRUE
-Lattice can be used as a support for parts with internal hollow volume and overhang feature,TRUE
+A lattice structure can be used for weight reduction and mechanical performance optimization.,TRUE
+Lattice structure can be used as a support for parts with internal hollow volume and overhang features,TRUE
 The Knowledge Base (KB) is not a part of the design framework.,FALSE
-The Knowledge Base (KB) is a tool for collecting and disseminating knowledge related to AM process and design.,TRUE
+The Knowledge Base (KB) is a tool for collecting and disseminating knowledge related to AM processes and design.,TRUE

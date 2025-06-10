@@ -2,17 +2,20 @@ Prompt,gold_label
 "What is the effect of using constant process parameters in Direct Laser Deposition (DLD)?
 1) Parts with isotropic microstructure
 2) Parts with anisotropic microstructure",2) Parts with anisotropic microstructure
-"What are the process parameters for WAAM AM process? 1) torch speed and wire feed rate 2) Scan Speed, and Spot Size",torch speed and wire feed rate 
-"What are the process parameters for PBF AM process? 1) torch speed and wire feed rate 2) Scan Speed, and Spot Size","Scan Speed, and Spot Size"
-"What is used to control/predict melt pool size, stress, and material properties in Additive Manufacturing?
-A) Process maps
-B) Material databases",Process maps
-"For PBF, which action is done first? 1) create build model 2) plan powder fusion strategy ",Create build model 
-"How are process parameters typically determined in Additive Manufacturing?
-A) Using trial-and-error methods
-B) Using simulation software only
+"What are the process parameters for WAAM process? 1) Torch speed and wire feed rate 2) Scan speed, and spot size",torch speed and wire feed rate 
+"What are the process parameters for PBF process? 1) Torch speed and wire feed rate 2) Scan speed, and spot size","Scan Speed, and Spot Size"
+"What is used to control or predict melt pool size, stress, and material properties?
+1) Process maps
+2) Material databases",Process maps
+"For PBF, which action is done first? 1) Create build model 2) Plan powder fusion strategy ",Create build model 
+"How are process parameters typically determined?
+1) Using trial-and-error methods
+2) Using simulation software only
  
 
 ",Using trial-and-error methods
 "What is a limitation of using process maps for large-scale processes? A) Inaccuracy due to model extrapolation errors
 B) Inability to predict part features",Inaccuracy due to model extrapolation errors
+What is the purpose of using support structures in the printing process? 1) To print overhang geometry 2) To improve quality,to printing overhung
+Which factor is directly dependent on the correct orientation?   1) Less support 2) Time to build a part,time to build a part
+Which factor depends on the correct orientation?  1) Certain surfaces should be built face-up to ensure good surface finish in areas that are not in contact with support structures. 2) Certain surfaces should be built face-down to ensure good surface finish in areas that are not in contact with support structures.,whether certain surfaces should be built face-up to ensure good surface finish in areas that are not in contact with support structures

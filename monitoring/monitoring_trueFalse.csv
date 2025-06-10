@@ -1,16 +1,16 @@
 ﻿Prompt,gold_label
-Multi-sensor data fusion is used in detecting defects in WAAM.,TRUE
-In-situ monitoring is not used in Additive Manufacturing for defect detection.,FALSE
-"Researchers use different monitoring sensors like vision, thermal and acoustic sensors to monitor the printing process.",TRUE
-"For powder bed fusion (PBF), the machine components are the powder Container, Build Plate, Recoater Arm, and CNC Controller.",TRUE
+Multi-sensor data fusion is used to detect defects in WAAM.,TRUE
+In-situ monitoring is not commonly used for defect detection.,FALSE
+"Researchers use different monitoring sensors, such as vision, thermal, and acoustic sensors, to monitor the printing process.",TRUE
+"For powder bed fusion, the machine components include the powder container, build plate, recoater arm, and CNC controller.",TRUE
 "Heating, melting, solidification and cooling are done during printing process.",TRUE
-"Melting process during the printing involves transforming the solid particles into liquid, and then letting them solidify again.",TRUE
-The rapid solidification and cooling during the AM part building does not affect the printing quality for AM process.,FALSE
-"The rapid solidification and cooling cause geometric distortion, peeling, and warping due to thermal stresses",TRUE
+Melting process during printing involves transforming solid particles into liquid and then letting them solidify again.,TRUE
+Rapid solidification and cooling during the build process do not affect the printing quality.,FALSE
+"Rapid solidification and cooling can cause geometric distortion, peeling, and warping due to thermal stresses.",TRUE
 Microstructure is considered as chemical properties of the final component.,FALSE
-Melt Pool Size does not affect the metallurgical quality of the printed part.,FALSE
-"Thermal Sensors, Porosity Sensors, CMM, CT Scanner are considered as motoring equipment's during the AM process.",TRUE
-Defects can not be identified during the printing process.,FALSE
-AM Machine Codes provides the toolpath information used for the build AM part.,TRUE
-Defects such as gas porosity and lack-of-fusion are not significant issues in AM.,FALSE
-Traditional methods for defect characterization in AM are primarily in-situ.,FALSE
+Melt pool size does not affect the metallurgical quality of the printed part.,FALSE
+"Thermal sensors, porosity sensors, CMM, CT scanners are considered as motoring equipment.",TRUE
+Defects cannot be identified during the printing process.,FALSE
+AM machine codes provides the toolpath information used to build parts.,TRUE
+Defects such as gas porosity and lack-of-fusion are not significant issues.,FALSE
+Traditional methods for defect characterization are primarily in-situ.,FALSE

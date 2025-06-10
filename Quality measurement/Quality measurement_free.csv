@@ -1,7 +1,7 @@
 Prompt,gold_label
-What properties are measured during the AM part qualification? ,"mechanical, microstructural, electrical, chemical, thermal or optical properties"
-List some instruments used for measuring external tolerances? ,"CMM, X-ray CT Scanner, Gages, Profiles, and Calipers."
+What properties are measured during the part qualification phase? ,"Mechanical, microstructural, electrical, chemical, thermal, and optical properties"
+List some instruments used for measuring external tolerances.,"CMMs, X-ray CT scanners, gages, profiles, and calipers"
 Provide examples of microstructure properties measured during the additive manufacturing (AM) process? ,"Grain size, morphology and growth and direction."
-What methods are used to measure microstructural properties of metal AM part? ,"X-Ray Scanning Electron Microscope, CT Scanning, and Electron Backscatter Diffraction"
-Provide examples of hardness measurements conducted during the metal additive manufacturing (AM) process? ,"Rockwell hardness, Brinell hardness, Vickers hardness, and Knoop hardness."
-What methods are used to measure the thermal properties during AM process? ,"Differential Scanning Calorimetry, Interferometry, and the Flynn/Wall/Ozawa Method."
+What methods are used to measure microstructural properties? ,"X-Ray Scanning Electron Microscope, CT Scanning, and Electron Backscatter Diffraction"
+Provide examples of hardness measurements? ,"Rockwell hardness, Brinell hardness, Vickers hardness, and Knoop hardness."
+What methods are used to measure the thermal properties ? ,"Differential Scanning Calorimetry, Interferometry, and the Flynn/Wall/Ozawa Method."

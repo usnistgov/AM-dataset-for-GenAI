@@ -1,11 +1,11 @@
 Prompt,gold_label
-What does Method E1457 measure? 1)creep crack growth 2)creep-fatigue crack growth,creep crack growth 
-What does Method E1820 measure? 1) fracture toughness. 2) Linear-Elastic Plane-Strain Fracture Toughness,fracture toughness
-What does Method  E2714 measure? 1) Creep-Fatigue 2) Constant Amplitude Fatigue.,Creep-Fatigue 
-What does Method  E8 measure? 1) Tension Testing 2) Poisson's Ratio ,Tension Testing 
-What does Method  E2019 measure? 1) Temperature Limit of Flammability of Chemicals 2) Minimum Ignition Energy of a Dust Cloud in Air,Minimum Ignition Energy of a Dust Cloud in Air.
-What does Method B500/B500M measure? 1) Direct Current Magnetic Properties of Soft Magnetic Materials Using D-C Permeameters. 2) Metallic Coated or Aluminum Clad Stranded Steel Core for Use in Overhead Electrical Conductors. ,Metallic Coated or Aluminum Clad Stranded Steel Core for Use in Overhead Electrical Conductors.
+What does ASTM E1457 measure? 1) Creep crack growth 2) Creep-fatigue crack growth,creep crack growth 
+What does ASTM E1820 measure? 1) Fracture toughness. 2) Linear-elastic plane-strain fracture toughness,fracture toughness
+What does ASTM  E2714 measure? 1) Creep-fatigue 2) Constant amplitude fatigue,Creep-Fatigue 
+What does ASTM  E8 measure? 1) Tension testing 2) Poisson's ratio ,Tension Testing 
+What does ASTM  E2019 measure? 1) Temperature limit of flammability of chemicals 2) Minimum ignition energy of a dust cloud in air,Minimum Ignition Energy of a Dust Cloud in Air.
+What does ASTM B500/B500M measure? 1) Direct current magnetic properties of soft magnetic materials using D-C permeameters 2) Metallic coated or aluminum clad stranded steel core for use in overhead electrical conductors,Metallic coated or aluminum clad stranded steel core for use in overhead electrical conductors
 Which properties are considered as mechanical properties? 1)Tensile strength and  compression strength 2) Grain size and morphology ,Tensile strength and compression strength
-Which method is used to measure the thermal properties of the AM part? 1) CT Scanning 2) Interferometry,Interferometry
-Which method is used to measure the electrical properties of the AM part? 1) Wattmeter Method  2) X-Ray Scanning Electron Microscope ,Wattmeter Method
-Which property is measured during the AM part qualification phase? 1) magnetic 2) microstructure,microstructure
+Which method is used to measure the thermal properties of the AM part? 1) CT scanning 2) Interferometry,Interferometry
+Which method is used to measure the electrical properties of the AM part? 1) Wattmeter method  2) X-ray scanning electron microscope ,Wattmeter Method
+Which property is measured during the qualification phase? 1) Magnetic 2) Microstructure,microstructure

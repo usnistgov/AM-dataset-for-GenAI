@@ -1,9 +1,9 @@
 Prompt,gold_label
-How is monitoring done during Laser Directed Energy Deposition?,Monitoring is done using Acoustic Emission and Optical Emission Spectroscopy with Artificial Intelligence and others techniques also.
-What are some common defects that occur in WAAM?,"Common defects include lack of fusion,porosity.distortion etc."
-What is the benefit of using Artificial Intelligence in monitoring and controlling additive manufacturing?,Artificial Intelligence enables intelligent sensing and automated control for improved quality and defect detection
+ How is monitoring done during laser directed energy deposition?,Monitoring is done using acoustic emission and optical emission spectroscopy with artificial intelligence and others techniques.
+What are some common defects that occur in WAAM?,"Common defects include lack of fusion, porosity, and distortion."
+What are the benefits of using artificial intelligence in monitoring and controlling?,"Artificial intelligence enables intelligent sensing and automated control for improved quality, real-time defect detection, and optimized process parameters."
 What types of defects can occur during the metal printing process? ,"Porosity, cracks, residual stress, geometric inaccuracy etc"
-Give different sensors example that are used to monitor the printing process? ,"sensors example that are used to monitor the printing process are Vision , thermal, acoustic ,NDE Scanning Electron Microscope (SEM) etc."
-What is partial and full melting for PBF? ,"Partial melting is a liquid matrix is established to selectively bind solid particles; while in full melting, powder is heated up above its melting point to result in a fully-dense material."
-"For PBF, provide some examples of  factors that influence the metallurgical quality of the Workpiece? ","actors that influence the metallurgical quality of the Workpiece are Laser Power, Scan Speed, Scan Overlap, Material Type, Chemical Composition, Geometry, Layer Thickness, Build Chamber Environment, Melt Pool Size, Melt Pool Temperature."
-What is the meaning of microstructure? ,phases and grain morphology
+Give examples of different sensors that are used to monitor the printing process.,"Example of sensors that are used to monitor the printing process include vision, thermal, acoustic, and NDE scanning electron microscope (SEM)."
+ What is the difference between partial and full melting in PBF? ,"Partial melting creates a liquid matrix that selectively binds solid particles, while full melting heats the powder above its melting point to form a fully-dense material."
+"For PBF, provide some examples of factors that influence the metallurgical quality of the workpiece.","Factors that influence the metallurgical quality of the workpiece include laser power, scan speed, scan overlap, material type, chemical composition, part geometry, layer thickness, build chamber environment, melt pool size, and melt pool temperature."
+What is the meaning of microstructure? ,"Microstructure refers to the phases, grain morphology, and other microscopic features of materials."

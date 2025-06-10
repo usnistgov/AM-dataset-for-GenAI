@@ -1,16 +1,22 @@
 Prompt,gold_label
-Process parameters in Additive Manufacturing are typically held constant with time,TRUE
-Time-invariant process parameters in Direct Laser Deposition (DLD) typically result in parts with an isotropic microstructure.,FALSE
+Process parameters are typically held constant over time.,TRUE
+"In direct laser deposition (DLD), time-invariant process parameters produce parts with an isotropic microstructure.",FALSE
 The prediction of part features using process maps is always accurate.,FALSE
 A process plan and fabrication of qualified parts are constrained and affected by the specifications and capabilities of different machine components.,TRUE
-Material Properties are used to plan a process for an AM machine.,TRUE
+Material specifications are used to plan a process for an AM machine.,TRUE
 Slicing and scanning are some examples of machine independent process parameters,FALSE
-Material properties means to tensile strength and other metallurgical qualities.,TRUE
-"Geometrical feature, undercut angle, and Material Properties of the model do not affect orientation determination.",FALSE
-"For PBF, part orientation within the machine affect part accuracy.",TRUE
-"For PBF, accuracy in the build plane is determined by the positioning of the build mechanism involving gearboxes and motors.",TRUE
-"For PBF, the optimal build orientation of the complex part is not challenging.",FALSE
-A part model on a build plate is constrained by the Tessellated Model Set up Rules.,FALSE
-Process planning rule is a subset of Tessellated Model Set up Rules.,FALSE
-Tessellated Model Set up Rules and process planning rule are same,FALSE
-"Identifying methods, plan a sequence of operations are discussed in process planning section in additive manufacturing.",TRUE
+Material properties include tensile strength and other metallurgical qualities.,TRUE
+"Geometric features, undercut angles, and material properties of the CAD model do not affect the orientation determination.",FALSE
+"For PBF, part orientation within the machine affects part accuracy.",TRUE
+"For PBF, the build plane accuracy depends on the positioning of the build mechanism, including gearboxes and motors.",TRUE
+"For PBF, the optimal build orientation is not essential for complex parts.",FALSE
+A part model on a build plate is constrained by the tessellated model setup rules.,FALSE
+Process planning rules are a subset of tessellated model setup rules.,FALSE
+Tessellated model setup rules and process planning rule are the same.,FALSE
+Identifying methods and planning the sequence of operations are discussed in the process planning phase.,TRUE
+Orientation selection depends on the capabilities of AM machines.,FALSE
+Machine independent process planning activities include choosing orientation and generating supports.,TRUE
+Tessellated model is placed on the build plate using the support structure.,FALSE
+"Build orientation and supports can affect build time, cost, dimensional accuracy, and surface quality of the final part.",TRUE
+Build orientation does not depend on the support structure.,FALSE
+Generating supports is a machine dependent phase.,FALSE
