@@ -27,7 +27,7 @@ Figure: X-CT image (a) and (b) small porosity and (c) and (d) large porsity
 - **Prompts**: Includes prompts for each type of task -->
 # GenAI-AM-Bench
 
-**GenAI-AM-Bench** is a dataset designed to evaluate **Generative Artificial Intelligence (GenAI)** models on a diverse set of tasks related to **Metal Additive Manufacturing (MAM)**.
+**GenAI-AM-Bench** is a dataset designed to evaluate **Generative Artificial Intelligence (GenAI)** models on various tasks related to **Metal Additive Manufacturing (MAM)**.
 It provides a comprehensive benchmark covering both visual and language-based reasoning tasks in the MAM domain.
 
 The dataset includes:
@@ -75,7 +75,7 @@ The dataset includes:
 **Example**:
 
 ```markdown
-Q: What is the difference between AMF and STL file formats?
+Q: Explain the difference between CAD models and STL models.
 ```
 
 ---
@@ -89,9 +89,10 @@ Q: What is the difference between AMF and STL file formats?
 **Example**:
 
 ```markdown
-Q: What type of laser is commonly used in metal powder bed fusion?  
-A) CO2 Laser  
-B) Fiber Laser
+Q: Which operation is used to enhance the part properties? 
+1) heat treating and sintering
+2) grinding
+
 ```
 
 ---
@@ -120,7 +121,7 @@ Answer: True
 
 # Citation
 
-If you use **GenAI-AM-Bench** in your work, please cite the corresponding paper (TBD).
+If you use **GenAI-AM-Bench** in your work, please cite the corresponding paper:.
 
 # License
 
